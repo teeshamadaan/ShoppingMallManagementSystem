@@ -1,0 +1,5 @@
+1,Soap,20.0,100
+2,Shampoo,80.0,50
+3,Toothpaste,45.0,75
+4,Chocolate,30.0,150
+5,Notebook,25.0,200
